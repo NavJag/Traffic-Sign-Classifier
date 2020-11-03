@@ -23,13 +23,12 @@ Design, train and test a model architecture
 Use the model to make predictions on new images
 Analyze the softmax probabilities of the new images
 Summarize the results with a written report
-Dependencies
-This lab requires:
 
-CarND Term1 Starter Kit
-The lab environment can be created with CarND Term1 Starter Kit. Click here for the details.
+Dependencies
+This lab requires: CarND Term1 Starter Kit - link - https://github.com/udacity/CarND-Term1-Starter-Kit
 
 Dataset and Repository
-Download the data set. The classroom has a link to the data set in the "Project Instructions" content. This is a pickled dataset in which we've already resized the images to 32x32. It contains a training, validation and test set.
+Download the data set here - https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip. 
+This is a pickled dataset in which the images are resized to 32x32. It contains a training, validation and test set.
 
 
