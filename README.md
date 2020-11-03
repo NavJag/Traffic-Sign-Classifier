@@ -2,6 +2,7 @@
 The goal of this project is to classify different traffic signs by training deep neural networks
 
 Overview
+
 In this project, you will use what you've learned about deep neural networks and convolutional neural networks to classify traffic signs. You will train and validate a model so it can classify traffic sign images using the German Traffic Sign Dataset. After the model is trained, you will then try out your model on images of German traffic signs that you find on the web.
 
 I have included an Ipython notebook that contains the code. 
@@ -10,11 +11,11 @@ A detailed writeup of the project is given in the writeup file.
 
 This project has three main files:
 
-the Ipython notebook with the code
-the code exported as an html file
-a writeup report 
+The Ipython notebook with the code
+The code exported as an html file
+A writeup report 
 
-The Project
+The Project:
 The goals / steps of this project are the following:
 
 Load the data set
