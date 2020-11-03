@@ -11,9 +11,11 @@ A detailed writeup of the project is given in the writeup file.
 
 This project has three main files:
 
-The Ipython notebook with the code
-The code exported as an html file
-A writeup report 
+a. The Ipython notebook with the code
+
+b. The code exported as an html file
+
+c. A writeup report 
 
 The Project:
 
