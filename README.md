@@ -1,4 +1,4 @@
-# Traffic-Sign-Classifier
+# Project: Build a Traffic Sign Recognition Program
 The goal of this project is to classify different traffic signs by training deep neural networks
 
 #**Traffic Sign Recognition** 
